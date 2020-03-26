@@ -1,6 +1,6 @@
 ﻿' Name:         Franklin Project
 ' Purpose:      Displays the number of square feet of material and the cost of a deck.
-' Programmer:   <your name> on <current date>
+' Programmer:   Ian Skelskey on 03/25/2020
 
 Option Explicit On
 Option Strict On
@@ -11,17 +11,20 @@ Public Class frmMain
         ' Displays square feet and deck cost.
 
         ' Instantiate a Rectangle object.
-
+        Dim deck As New Rectangle
         ' Declare variables.
-
+        Dim dblSqFtPrice As Double
+        Dim intSqFt As Integer
+        Dim dblCost As Double
         ' Assign length and width to the object's Public properties.
-
+        Integer.TryParse(lstLength.SelectedItem.ToString, deck.Length)
+        Integer.TryParse(lstWidth.SelectedItem.ToString, deck.Width)
         ' Assign price to variable.
-
+        Double.TryParse(lstPrice.SelectedItem.ToString, dblSqFtPrice)
         ' Calculate area in square feet.
-
+        intSqFt = deck.GetArea
         ' Calculate cost of deck.
-
+        dblCost = dblSqFtPrice * intSqFt
         ' Display output.
         lblSqFt.Text = intSqFt.ToString
         lblCost.Text = dblCost.ToString("C2")

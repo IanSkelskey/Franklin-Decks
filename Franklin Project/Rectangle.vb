@@ -7,9 +7,9 @@
         End Get
         Set(value As Integer)
             If intLength > 0 Then
-                Length = intLength
+                intLength = value
             Else
-                Length = 0
+                intLength = 0
             End If
         End Set
     End Property
@@ -20,9 +20,9 @@
         End Get
         Set(value As Integer)
             If intWidth > 0 Then
-                Width = intWidth
+                intWidth = value
             Else
-                Width = 0
+                intWidth = 0
             End If
         End Set
     End Property

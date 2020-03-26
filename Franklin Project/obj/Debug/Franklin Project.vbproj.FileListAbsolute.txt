@@ -17,3 +17,15 @@ C:\Users\iansk\Downloads\VB2017\Chap10\Franklin Solution\Franklin Project\obj\De
 C:\Users\iansk\Downloads\VB2017\Chap10\Franklin Solution\Franklin Project\obj\Debug\Franklin Project.exe
 C:\Users\iansk\Downloads\VB2017\Chap10\Franklin Solution\Franklin Project\obj\Debug\Franklin Project.xml
 C:\Users\iansk\Downloads\VB2017\Chap10\Franklin Solution\Franklin Project\obj\Debug\Franklin Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.vbprojAssemblyReference.cache
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin_Project.frmMain.resources
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin_Project.Resources.resources
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.vbproj.GenerateResource.cache
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.vbproj.CoreCompileInputs.cache
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.xml
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\obj\Debug\Franklin Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\bin\Debug\Franklin Project.exe.config
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\bin\Debug\Franklin Project.exe
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\bin\Debug\Franklin Project.pdb
+C:\Users\iansk\source\repos\IanSkelskey\Franklin-Decks\Franklin Project\bin\Debug\Franklin Project.xml
