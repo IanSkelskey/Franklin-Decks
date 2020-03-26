@@ -6,7 +6,7 @@
             Return intLength
         End Get
         Set(value As Integer)
-            If intLength > 0 Then
+            If value > 0 Then
                 intLength = value
             Else
                 intLength = 0
@@ -19,7 +19,7 @@
             Return intWidth
         End Get
         Set(value As Integer)
-            If intWidth > 0 Then
+            If value > 0 Then
                 intWidth = value
             Else
                 intWidth = 0
